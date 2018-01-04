@@ -4,8 +4,16 @@ Simple PoC using npm package 'custom-protocol-detection' to detect if qz-tray ca
 
 ## To Run
 
-`npm i` to isntall npm dependecies (from package-lock.json)
-`ng serve` to run. Navigate to `http://localhost:4200/`
+```
+git clone https://github.com/PaulLockwood/ng-cli-detection-custom-uri.git
+cd ng-cli-detection-custom-uri/
+npm i
+ng serve
+
+# http://localhost:4200/ (Navigate to in a browser)
+```
+
+
 
 
 
